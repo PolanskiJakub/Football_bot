@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fuzballbot",
+  "private_key_id": "7d038f7d20314542b8448d4fde3fa585448405ac",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQD2qte3y+U5OlDx\nYhEP5NZa/0ntlZ9VhqyS1A8CvNYyJJbuqqsEcPg+neEB97RKk05zbgKbXDAuumY8\nvcxj9QHa9/+QmMedqpB8Ab3PW2aX1w1RF+3QFsCbbIWLUU+DKW3zwc+UpuhCqJtO\nBmqPmFWKfwWHGO1oqhJLq4Ai3maZgWX43cVbtzZp21gDhvyvzdtOv2Jqcv+oFG+2\nOVp+wjclR4lyGbi/siz5vNuEN1BgcXGOx59RXjaTBOF2o/9UozANZ6+PpR8060HW\nKnMpnGAt6HK+XYTz5NCnNUoMKLVQ9k6NsbApATylXjIE98QFwbsfcuQvgngzxrcl\nNV6QhDXLAgMBAAECggEABOAoA89siEhzAYjUf4G6PvHQdN+O1uW8X+nMvI6EL7+L\nZpiwnEjc9bF9mUiOvSUGP7/X61kG8GJQBp+8L4M2dmAnVaTypSPFV74mq1Ewlb9Z\ncwkYphLp208DOleKgJqY1fppvC13mWgakcM/55C1eCRXzqDOgh6CeBGh81tKbRRL\n9iAk3YSYHYxah+eMcZvEJxW6H3LReQpzzAQYLgsOFMU9nEO7B8UZBXCxWHuHHJvZ\nOJLYR6epjSHXo6CGRaSH+bKbGdq26SZCSyyKFAY1tRpk90P/XM0DLYCA+FpZcFiF\nNEAdNmbLqqmwp1Gnpc1lcZtzZXyzEUMIiQbA1V388QKBgQD+vDGyKmQPk9Sjf1j6\nxQ65UbekNiSrrty6msxirqRtwuG9+kpQmbrLHTSEou1Ae0Ay/kmyNh2UgHeXeKnz\n4x1Rxxes9bEiEtMn74YIdlFZ6R2YnhNTKmGJ9DJ8+o8B3Was3ozWl4QLKfpTCYBd\nrhabx/Zfh7GTpP4BS2WHoXvQIwKBgQD35GSn81azyqtE938VGEbeE0RK/s0tdwnu\nPvrIWzxQg3SeyNjVnHmT30bZocJL8guwtOuis6F3gXV2IJFdQ/13Oom3VbsUmRu6\nmdb1UeMq7NSPuq38+5hi78iRN62pl0ybpIcsoDrls7iWppX/kUlUbCOWX/EJAcfD\nKKVMp0CKOQKBgQDedFqxzHM1Z1P6s+twk0YYcFR/AwljJIF+NFDonLrbX6Tj0v+z\nA40sc4S5j87A0OFvpsGU781FMis+DBHe+idQkx0J3kWiC+56oaHbIfhJHFrMPL+D\nkS882hR9MBJS/pX7wR4dCJQ3a6E/grynErCLukRdiJJ67UsktkMj/tGxIQKBgQDJ\npsE63nhpSTSJpct7HYSIoqOrXhsKIQuzAwh+c7lcxZLYmAnLur4rzDWWVD/6B6v6\n0zHb6MQwst8aeOPHOse1dakRumu1Fde4s+xpI3PoNz+yq+ldIk2ULfq6JtDeZHWt\nJunPI4jF0q0V3+2lOEquoklQyjsJWKln2GifMm8OAQKBgQDpkCqulE7S0idIwNFc\np1Hgz8VXwCKDcuAeQ5/yKoQcjMTL3I4Q+FTPYLKxIwBpr9wVZpKgvpO8yFpSWTzx\ni12YW8ENwmbWCD7yPOpXFYWozRNbQoJScaBVsUHBouu0Q8ydGG/O149O8/G1wo4J\nna8fykhD6zwDmVoOjnAO1STuJA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-p04sc@fuzballbot.iam.gserviceaccount.com",
+  "client_id": "100475964198195200299",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-p04sc%40fuzballbot.iam.gserviceaccount.com"
+}
